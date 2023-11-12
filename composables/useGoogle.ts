@@ -2,7 +2,7 @@ import {Loader} from '@googlemaps/js-api-loader'
 
 export const useGoogle = () => {
     const loader = new Loader({
-        apiKey:'AIzaSyDOD3zKKeyFhO_UJV38OlMKdXbl-_ICRLQ',
+        apiKey:'APIキーをいれる',
         version:'weekly',
         libraries:['places','drawing','geometry']
     })
